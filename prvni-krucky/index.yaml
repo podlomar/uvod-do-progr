@@ -1,0 +1,34 @@
+title: První krůčky
+link: prvni-krucky
+brief: Vykročíme do světa programování a začneme se učit první důležité myšlenky a nástroje
+lessons:
+  - title: První zakázky
+    link: prvni-zakazky
+    brief: Představíme se několik problémů, které programátoři řeší ve skutečné práci
+  - title: Čísla a řetězce
+    link: cisla-retezce
+    brief: Nyní už skutečně začneme programovat a vyzkoušíme si první příkazy v jazyce Python.
+  - title: Proměnné
+    link: promenne
+    brief: Proměnné potřebujeme k tomu, abychom si mohli nějakou hodnotu zapamatovat pro pozdější použití.
+  - title: Funkce a moduly
+    link: funkce-moduly
+    brief: Ukážeme si, jak používat funkce a importovat moduly, abychom nemuseli všechno v Pythonu psát od píky.
+  - title: Vstup a výstup
+    link: vstup-vystup
+    brief: Vstup a výstup potřebujeme aby program dokázal komunikovat s uživatelem.
+  - title: Podmínky
+    link: podminky
+    brief: V této kapitole naučíme naše programy rozhodovat se a měnit svoje chování podle zadaného vstupu.
+  - title: Sekvenční hodnoty
+    link: sekvence
+    brief: Díky sekvencím můžeme do jedné proměnné uložít více hodnot najednou.
+  - title: Cykly
+    link: cykly
+    brief: Naučíme naše programy provádět opakovaně nějakou činnost.
+  - title: Problém spolubydlení
+    link: problem-spolubydleni
+    brief: Řešení naší úvodní úlohy rozpočítání útraty napsané v jazyce Python.
+  - title: Kam dál?
+    link: kam-dal
+    brief: Co si počít s tím, co jste se zde naučili, a kam se vydat dál.
