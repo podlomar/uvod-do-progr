@@ -1,3 +1,5 @@
+# Sekvence
+
 Do této chvíle jsme uměli do nějaké proměnné uložit pouze jednu hodnotu,
 například číslo nebo řetězec. Počítače ale často potřebují pracovat v mnohem
 větším objemem dat, než je několik čísel nebo řetězců.

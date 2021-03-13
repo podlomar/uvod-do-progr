@@ -1,3 +1,5 @@
+# Problém spolubydlení
+
 Možná se to nezdá, ale těch několika lekcích, kterými jste prošli, jste již
 vybavení téměř všemi nezbytnými technickými dovednostmi k tomu, abyste
 dokázali naprogramovat řešení našeho problému se spolubydlením ze začátku

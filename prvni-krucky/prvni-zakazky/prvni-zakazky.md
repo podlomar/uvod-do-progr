@@ -1,3 +1,5 @@
+# První zakázky
+
 Cílem tohoto kurzu není z vás udělat programátory, protože to je běh na mnohem
 delší trať než na jakou máme během jediného dne čas. Co ale za jeden den
 stihneme, je nahlédnout pod pokličku toho, jak vypadá každodenní práce

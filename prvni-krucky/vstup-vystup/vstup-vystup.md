@@ -1,3 +1,5 @@
+# Vstup a výstup
+
 Nyní přichází na řadu velký zlom. Zatím jsme s Pythonem komunikovali pouze na
 konzoli a posílali jsme mu k vyhodnocení vždy pouze jeden příkaz. Když ale už
 umíme pracovat s proměnnými a funkcemi, můžeme vytvořit náš první program.

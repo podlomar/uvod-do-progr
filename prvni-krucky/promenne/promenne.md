@@ -1,3 +1,5 @@
+# Proměnné
+
 Při komplikovanějších výpočtech se nám často stane, že si potřebujeme nějaký
 mezivýpočet uložit pro pozdější použití. K tomu nám slouží takzvané
 _proměnné_.
