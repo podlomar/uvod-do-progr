@@ -68,6 +68,7 @@ for root_directory in root_directory_list:
                             f.write(converted_text)
                     f.close()
                     for key, value in excs.items():
+                        os.remove(os.path.join(subdirectory, "excs", f"{key}.md"))
                         f = open(os.path.join(subdirectory, "excs", f"{key}.md"), "w", encoding="utf-8")
                         f.writelines(html2text.html2text(value).replace("\-", "-"))
                         f.close()
