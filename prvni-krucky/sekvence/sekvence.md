@@ -1,7 +1,3 @@
-<%inherit file="/course-chapter.mako"/>
-
-<%self:lesson>
-
 Do této chvíle jsme uměli do nějaké proměnné uložit pouze jednu hodnotu,
 například číslo nebo řetězec. Počítače ale často potřebují pracovat v mnohem
 větším objemem dat, než je několik čísel nebo řetězců.
@@ -14,60 +10,46 @@ Raději si rovnou ukážeme jedna z nejjednodušší sekvencí, a to je řetěze
 tomu, že řetězec je sekvence, je možné přistupovat k jednotlivým jeho prvkům,
 v tomto případě písmenům.
 
-
-    >>> jmeno = 'hubert'
-
+```python
+>>> jmeno = 'hubert'
 >>> jmeno[0]
-
 'h'
-
 >>> jmeno[4]
-
 'r'
+```
 
 Ty vůbec nejpoužívanější sekvence jsou ovšem seznamy. Do nich lze uložit
 jakékoliv množství hodnot jakéhokoliv typu. Dokonce můžeme mít seznamy
 seznamů.
 
-
-    >>> znamky = [2, 3, 4, 1, 1]
-
+```python
+>>> znamky = [2, 3, 4, 1, 1]
 >>> teploty = [13.4, 13.5, 12.8, 11.9]
-
 >>> uzivatele = ['mark', 'carl', 'eve', 'ellen']
-
->>> platby = ['Jan Novák', 12000, true]
-
+>>> platby = ['Jan Novák', 12000, True]
 >>> body = [[140, 120], [60, 92], [34, 68]]
+```
 
 Přístupy k indexům sekvencí se dají skládat za sebe. Můžeme tak získat
 například čtvrté písmenko druhého jména v seznamu `uzivatele`
 
-
-    >>> uzivatele[1][3]
-
+```python
+>>> uzivatele[1][3]
 'l'
+```
 
 nebo první číslo třetího seznamu v proměnné `body`
 
-
-    >>> points[2][0]
-
+```python
+>>> points[2][0]
 'l'
+```
 
-<%self:exercises>
+## Cvičení
 
-[[[ excs Cvičení
+- [retezce-jako-sekvence](excs/Retezce-jako-sekvence.md)
+- [seznamy](excs/Seznamy.md)
 
-- retezce-jako-sekvence
+### Bonusy
 
-- seznamy
-
-]]]
-
-[[[ excs Bonusy
-
-- overovani-hesla
-
-]]]
-
+- [overovani-hesla](excs/Overovani-hesla.md)
