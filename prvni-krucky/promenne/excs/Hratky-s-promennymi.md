@@ -1,4 +1,7 @@
-## Hrátky s proměnnými  
+---  
+title: Hrátky s proměnnými
+demand: 1
+---  
 
 Dbejte na to, aby proměnné měly vhodný název dobře naznačující, co je v které
 z nich uloženo.

@@ -1,4 +1,7 @@
-## Házení kostkami  
+---
+title: Házení kostkami
+demand: 4
+---
 
 
 Napište program `kostky.py`, který bude simulovat hod dvěma klasickými
@@ -6,8 +9,8 @@ Napište program `kostky.py`, který bude simulovat hod dvěma klasickými
 
 **Nápověda:**
 
-  * Generování náhodných čísel dělá funkce `random.randint()`.
-  * Pokud chcete ve vašem programu použít modul `random`, musíte na jeho úplném začátku napsat příkaz 
-    ```python
-    import random
-    ```
+* Generování náhodných čísel dělá funkce `random.randint()`.
+* Pokud chcete ve vašem programu použít modul `random`, musíte na jeho úplném začátku napsat příkaz 
+```python
+import random
+```
