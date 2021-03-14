@@ -1,12 +1,7 @@
----  
-title: Generátor čísel  
-demand: 1  
----  
+## Generátor čísel  
 
 Napište program `generator.py`, který si od uživatele vyžádá dvě celá čísla -
 dolní mez a horní mez - a vypíše na výstup náhodné číslo v zadaných mezích.
-
-<%self:lesson>
 
 ## Výstup na stejný řádek
 

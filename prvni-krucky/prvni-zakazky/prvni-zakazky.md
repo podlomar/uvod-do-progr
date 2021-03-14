@@ -1,10 +1,8 @@
-<%inherit file="/course-chapter.mako"/>
-
-<%self:lesson>
+# První zakázky
 
 Cílem tohoto kurzu není z vás udělat programátory, protože to je běh na mnohem
 delší trať než na jakou máme během jediného dne čas. Co ale za jeden den
-stihneme je nahlédnout pod pokličku toho, jak vypadá každodenní práce
+stihneme, je nahlédnout pod pokličku toho, jak vypadá každodenní práce
 programátora nebo vývojáře a ochutnat jaké problémy se v programátorské praxi
 řeší.
 
@@ -24,36 +22,20 @@ Představte si šest spolubydlících: Libora, Zuzku, Patra, Pavlu, Ondru a Mí�
 toaletní papír, mýdlo, prací prášek apod. Postupně svoje útraty zapisují do
 tabulky, která může vypadat například takto:
 
-Jméno
-
-Věc
-
-Částka
-
+Jméno | Věc | Částka
+----- | --- | ------
 Petr| Prací prášek| 240 kč
-
 Ondra| Savo| 80 kč
-
 Pavla| Toaleťák| 65 kč
-
 Zuzka| Mýdlo| 50 kč
-
 Pavla| Závěs do koupelny| 350 kč
-
 Libor| Pivka na kolaudačku| 124 kč
-
 Petr| Pytle na odpadky| 75 kč
-
 Míša| Utěrky na nádobí| 130 kč
-
 Ondra| Toaleťák| 120 kč
-
 Míša| Pečící papír| 30 kč
-
 Zuzka| Savo| 80 kč
-
 Petr| Tapeta na záchod| 315 kč
-
 Ondra| Toaleťák| 64 kč
 
 Dejme tomu, že uplynulo například půl roku a spolubydlící se chtějí navzájem
@@ -78,11 +60,8 @@ a to je tak všechno.
 Pokud se podíváte na naši tabulku výdajů, možná budete mít nutkání ji vyřešit
 tak říkajíc šmahem: prostě kouknu a vidím, nějak to tady přičtu, tady odečtu a
 hotovo. To se může celkem povést pro tabulku o šesti lidech. Těžko ale takový
-postup uplatníme například pro menší Švýcarskou vesnici, která má 375 obyvatel
+postup uplatníme například pro menší  švýcarskou vesnici, která má 375 obyvatel
 a v tabulce výdajů je 8 822 záznamů. Pro vaši představu, taková data zaberou
 oboustranně 197 listů A4 a těžko je můžeme zpracovat šmahem. Máte-li nutkání
 si tabulku skutečně prohlédnout, můžete si ji stáhnout [zde ve formátu
 PDF](/download/intro-to-progr/tabulka.pdf).
-
-]]]
-
