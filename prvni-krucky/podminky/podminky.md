@@ -1,11 +1,7 @@
-<%inherit file="/course-chapter.mako"/>
-
-<%self:lesson>
-
 Do této chvíle všechny naše programy vypadaly jako sekvence příkazů vykonávané
 jeden za druhým a měly pouze jeden možný průběh. Pro komplikovanější programy
 ale budeme potřebovat umožnit, aby se některé části programu vykonaly jen za
-určitých _podmínek_ , tedy aby se naše programy dokázaly rozhodovat a měnit
+určitých *podmínek* , tedy aby se naše programy dokázaly rozhodovat a měnit
 svoje chování na základě zadaného vstupu od uživatele.
 
 ![Adult only](/img/intro-to-progr/adult-only.png)
@@ -16,21 +12,19 @@ tedy musí být schopný se podle zadaného věku rozhodnout, zda uživateli umo
 koupit si lístek nebo nikoliv. Takový program by pak mohl vypadat například
 takto:
 
-
-    if vek >= 18:
-
-print('Vítej ve světě slasti')
-
+```python
+if vek >= 18:
+  print('Vítej ve světě slasti')
 else:
-
-print('Odpal, holomku!')
+  print('Odpal, holomku!')
+```
 
 ## Bloky
 
 Všimněte si, že některé řádky v naší podmínce jsou odsazené kousek doprava.
 Tímto poprvé narážíme na takzvané bloky kódu. Blok je způsob jak seskupit
 několik příkazů do jednoho celku. Takový celek pak může být součástí podmínky
-nebo, jak později uvidíme, například cyklu. Blok vždy začíná dvojtečkou na
+nebo, jak později uvidíme, například cyklu. Blok vždy začíná **dvojtečkou** na
 konci předchozího řádku. Tím říkáme k jaké konstrukci (v našem případě `if`)
 náš blok příkazů patří.
 
@@ -41,7 +35,7 @@ případě jmen proměnných, opět zde přichází do hry různé programovací
 Opět je to na jakémsi vašem estetickém cítění. Já budu v tomto kurzu vždy
 doporučovat dvě mezery.
 
-Pokud si zvolíte konkrétní styl, je velice důležité jej dodržovat. Pokud v
+Pokud si zvolíte konkrétní styl, je velice důležité jej **dodržovat**. Pokud v
 rámci jednoho bloku budete míchat mezery a tabulátory, Python vašemu kódu
 nebude rozumět a bude vyhazovat chyby. Pokud budete jeden blok odsazovat
 pomocí tabulátorů a jeden pomocí mezer, tak vám to Python odpustí, ale je to
@@ -54,49 +48,35 @@ jemnější rozdělení přístupnosti nějakého představení. Můžeme např�
 představení nevhodné vyloženě pro malé děti, zatímco teenageri jsou v pohodě.
 Budeme tady potřebovat podmínku s více větvemi:
 
-
-    if vek < 6:
-
-print('Předškolák')
-
+```python
+if vek < 6:
+  print('Předškolák')
 elif vek < 15:
-
-print('Školák')
-
+  print('Školák')
 elif vek < 18:
-
-print('Mladistvý')
-
+  print('Mladistvý')
 else:
-
-print('Dospělý')
+  print('Dospělý')
+```
 
 ## Porovnávací operátory
 
 V podmínkách jsme zatím používali operátory menší než `<` a větší nebo rovno
 `>=`. Zde je přehled všech ostatních porovnávacích operátorů
 
-* rovno: **==**
-
-* nerovno: **!=**
-
-* větší: **>**
-
-* větší nebo rovno: **> =**
-
-* menší: **<**
-
-* menší nebo rovno: **< =**
+* rovno: `==`
+* nerovno: `!=`
+* větší: `>`
+* větší nebo rovno: `>=`
+* menší: `<`
+* menší nebo rovno: `<=`
 
 Všimněte si, že rovnost se testuje pomocí dvou rovná se. Je to proto, že jedno
 rovná se už používáme k něčemu jinému - k přiřazení hodnoty do proměnné.
 
-<%self:exercises>
-
 [[[ excs Cvičení
 
 - jednoduche-podminky
-
 - cena-vstupenky
 
 ]]]
@@ -104,9 +84,7 @@ rovná se už používáme k něčemu jinému - k přiřazení hodnoty do promě
 [[[ excs Bonusy
 
 - registrace
-
 - ruleta
-
 - prestupny-rok
 
 ]]]

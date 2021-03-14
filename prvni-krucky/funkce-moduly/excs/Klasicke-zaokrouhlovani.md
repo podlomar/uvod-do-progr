@@ -1,6 +1,6 @@
 ---  
 title: Klasické zaokrouhlování  
-demand: 1  
+demand: 5
 ---  
 
 Překvapivě Python neobsahuje žádnou funkci, která by dělala klasické

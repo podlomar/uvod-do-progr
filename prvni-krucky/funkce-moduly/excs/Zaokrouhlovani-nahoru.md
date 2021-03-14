@@ -1,6 +1,6 @@
 ---  
 title: Zaokrouhlování nahoru  
-demand: 1  
+demand: 1
 ---  
 
 Importujte modul `math` a vyzkoušejte si funkci `math.ceil()`, která slouží k

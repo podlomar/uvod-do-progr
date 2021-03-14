@@ -1,6 +1,6 @@
 ---  
 title: Průměr  
-demand: 1  
+demand: 2
 ---  
 
 Napište cyklus, který projde zadaný seznam desetinných čísel a spočítá jejich

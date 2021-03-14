@@ -1,10 +1,6 @@
-<%inherit file="/course-chapter.mako"/>
-
-<%self:lesson>
-
 Počítače a programování byly vymyšleny především proto, aby ušetřili lidem
 nudnou a repetitivní práci. Proto chceme umět počítači říct, že má nějakou
-činnost opakovat mnohokrát po sobě. K tomu nám v programování slouží takzvané
+činnost **opakovat mnohokrát po sobě**. K tomu nám v programování slouží takzvané
 cykly.
 
 ## Cyklus FOR
@@ -15,15 +11,14 @@ prvku a pro každý prvek vykonat určitý blok kódu. Představme si napříkla
 máme seznam známek z písemek nějakého studenta a chceme tyto známky vypsat na
 obrazovku, každou na nový řádek. K tomu nám stačí takovýto kousek kódu.
 
-
-    znamky = [1, 3, 2, 1, 1, 2]
-
+```python
+znamky = [1, 3, 2, 1, 1, 2]
 for z in znamky:
-
-print(z)
+  print(z)
+```
 
 V tomto konkrétním případě tedy náš cyklus prochází seznam známek jednu po
-druhé. Známka, která je právě zpracovávána, je uložena v proměnné z. Jméno
+druhé. Známka, která je právě zpracovávána, je uložena v proměnné `z`. Jméno
 této proměnné jsme si zvolili tak, aby bylo čitelné, co je v proměnné uloženo,
 tedy z jako známka.
 
@@ -31,37 +26,28 @@ Podobně jako v případě podmínek můžeme cyklu FOR předat celý blok pří
 najednou. Mějme například seznam jmen, kdy za každé jméno chceme přidat konec
 e-mailové adresy.
 
-
-    jmena = ['petr', 'pavel', 'jitka', 'jana']
-
+```python
+jmena = ['petr', 'pavel', 'jitka', 'jana']
 for jmeno in jmena:
-
-mail = jmeno + '@gmail.com'
-
-print(mail)
+  mail = jmeno + '@gmail.com'
+  print(mail)
+```
 
 Takto vytiskneme na obrazovku maily jednotlivých lidí, každý na jeden řádek.
-Následující animace ukazuje, jakým způsobem Python prochází tento progam.
-
-![](/img/intro-to-progr/for-cycle.gif)
 
 Jak už bylo napsáno výše, cyklus může obsahovat libovolný blok příkazů, takže
 se můžeme opravdu rozparádit a vložit do bloku v cyklu FOR třeba podmínku.
 
-
-    jmena = ['petr', 'pavel', 'jitka', 'jana']
+```python
+jmena = ['petr', 'pavel', 'jitka', 'jana']
 
 for jmeno in jmena:
-
-if len(jmeno) <= 4:
-
-mail = jmeno + '@gmail.com'
-
-else:
-
-mail = jmeno + '@seznam.cz'
-
-print(mail)
+  if len(jmeno) <= 4:
+    mail = jmeno + '@gmail.com'
+  else:
+    mail = jmeno + '@seznam.cz'
+    print(mail)
+```
 
 Tímto jsme vlastně vysvětlili to hlavní a zásadní co o cyklu FOR zatím
 potřebujeme vědět. Možná se to na první pohled nezdá, ale přidáním cyklu do
@@ -73,25 +59,20 @@ mozkové závity.
 
 Ukažme si například jak se pomocí cyklu spočítá součet všech čísel v seznamu.
 
-
-    soucet = 0
-
+```python
+soucet = 0
 for cislo in cisla:
-
-soucet = soucet + cislo
+  soucet = soucet + cislo
+```
 
 Ne, že bychom zrovna tento cyklus nutně potřebovali. Python obsahuje funkci
 `sum()`, která umí dělat přesně toto. Tento příklad ale spíše ukázat, že s
 cykly můžeme dělat spoustu zajímavých věci.
 
-<%self:exercises>
-
 [[[ excs Cvičení
 
 - seznam-hodnoceni
-
 - prochazeni-seznamu
-
 - slozitejsi-seznam
 
 ]]]
@@ -99,9 +80,7 @@ cykly můžeme dělat spoustu zajímavých věci.
 [[[ excs Bonusy
 
 - hry
-
 - prumer
-
 - nejvetsi-prvek
 
 ]]]

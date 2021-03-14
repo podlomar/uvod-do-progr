@@ -3,14 +3,22 @@ title: Seznam hodnocení
 demand: 1  
 ---  
 
-Mějme seznam hodnocení divadelní hry _Plyšáci na útěku_ , který vypadá takto:_
+Mějme seznam hodnocení divadelní hry *Plyšáci na útěku* , který vypadá takto:
 
     
-    
-    hodnoceni = [7, 9, 6, 7, 9, 8]
+```python
+hodnoceni = [7, 9, 6, 7, 9, 8]
+```
 
-  1. Vytvořte program, který projde tento seznam a vypíše každé hodnocení na nový řádek.
-  2. Upravte program tak, aby vypisoval výstup v tomto formátu
-    
-        7/109/106/107/109/108/10
+1. Vytvořte program, který projde tento seznam a vypíše každé hodnocení na nový řádek.
+2. Upravte program tak, aby vypisoval výstup v tomto formátu
+
+```python
+7/10
+9/10
+6/10
+7/10
+9/10
+8/10
+```
 

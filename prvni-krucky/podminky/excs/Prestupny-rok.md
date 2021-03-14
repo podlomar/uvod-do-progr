@@ -1,6 +1,6 @@
 ---  
 title: Přestupný rok  
-demand: 1  
+demand: 3
 ---  
 
 Napište program, který po zadání kalendářního roku vypíše, zda jde o rok

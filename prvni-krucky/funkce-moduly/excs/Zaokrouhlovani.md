@@ -1,6 +1,6 @@
 ---  
 title: Zaokrouhlování  
-demand: 1  
+demand: 2
 ---  
 
 Divadlo chce mít ceny vstupenek jak v eurech tak v celých korunách. Uložte do

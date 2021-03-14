@@ -1,6 +1,6 @@
 ---  
 title: Registrace  
-demand: 1  
+demand: 2
 ---  
 
 Založte si program `registrace.py`. Program nechá uživatele, aby si zvolil

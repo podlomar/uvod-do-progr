@@ -1,6 +1,6 @@
 ---  
 title: Ruleta  
-demand: 1  
+demand: 5
 ---  
 
 Na obrázku vidíte rozložení čísel na klasické Francouzské ruletě. Ruleta
@@ -10,7 +10,7 @@ jsou červená a sudá jsou černá. Pro zbytek platí obrácené pravidlo, tedy
 jsou černá a sudá červená. Nula není ani lichá ani sudá, ani černá ani
 červená.
 
-![](/img/intro-to-progr/roulette.png)
+![](img/roulette.jpg)
 
 Napište program, kterému uživatel zadá číslo a program odpoví jestli jde o
 číslo sudé nebo liché, černé nebo červené, nebo je to nula.
