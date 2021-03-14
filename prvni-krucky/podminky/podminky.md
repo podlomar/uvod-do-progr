@@ -4,7 +4,7 @@ ale budeme potřebovat umožnit, aby se některé části programu vykonaly jen 
 určitých *podmínek* , tedy aby se naše programy dokázaly rozhodovat a měnit
 svoje chování na základě zadaného vstupu od uživatele.
 
-![Adult only](img/adult-only.jpg)
+![Adult only](img/adult-only.png)
 
 Naše divadlo obsahuje některé lechtivé kusy s obsahem pouze pro dospělé. Na
 takové představení chceme pustit pouze uživatele starší 18ti let. Náš program
