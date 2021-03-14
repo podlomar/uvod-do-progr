@@ -70,18 +70,13 @@ Ne, že bychom zrovna tento cyklus nutně potřebovali. Python obsahuje funkci
 cykly můžeme dělat spoustu zajímavých věci.
 
 [[[ excs Cvičení
-
 - seznam-hodnoceni
 - prochazeni-seznamu
 - slozitejsi-seznam
-
 ]]]
 
 [[[ excs Bonusy
-
 - hry
 - prumer
 - nejvetsi-prvek
-
 ]]]
-

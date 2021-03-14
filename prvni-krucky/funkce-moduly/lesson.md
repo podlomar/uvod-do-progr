@@ -16,7 +16,7 @@ takzvaně **zavoláme**.
 Dobrým příkladem v jazyce Python je funkce `round()`, která pro nás dělá
 zaokrouhlování. Můžeme tedy psát
 
-```
+```pycon
 >>> round(3.141592)
 3
 ```
@@ -30,7 +30,7 @@ výsledek.
 Pozor na to, že zaokrouhlování v jazyce Python se chová trošku jinak než jak
 jsem zvyklí ze školy. Zkuste například následující příkazy:
 
-```python
+```pycon
 >>> round(3.5)
 4
 >>> round(2.5)
@@ -49,7 +49,7 @@ z nich uvidíme v pozdějších částech tohoto kurzu. Nyní můžeme kromě fu
 `round()` zmínit například funkci `len()`, která vrací počet znaků uvnitř
 nějakého řetězce. Například:
 
-```
+```pycon
 >>> jmeno = 'Theodor Holohlávek'
 >>> len(jmeno)
 18
@@ -67,7 +67,7 @@ matematických funkcí. Mimo jiné obsahuje funkce pro zaokrouhlování nahoru a
 dolů. Pokud chceme modul `math` použít, musíme jej nejdříve importovat
 příkazem
 
-```
+```pycon
 >>> import math
 ```
 
@@ -75,7 +75,7 @@ Poté, co tento příkaz zadáme do Python konzole, můžeme volat všechny funk
 tohoto modulu tak, že vždy před název funkce pomocí tečky připojíme název
 modulu, ze kterého funkce pochází. Například
 
-```
+```pycon
 >>> math.ceil(3.14)
 4
 ```
@@ -85,7 +85,7 @@ generování náhodných čísel. Jedna z takových funkcí se jmenuje `randint(
 Umí generovat náhodná celá čísla v zadaném rozmezí. Můžeme tak například
 simulovat házení kostkou.
 
-```
+```pycon
 >>> import random
 >>> random.randint(1, 6)
 5
@@ -104,17 +104,12 @@ simulovat házení kostkou.
 ```
 
 [[[ excs Cvičení
-
 - delka-nazvu
 - zaokrouhlovani
 - zaokrouhlovani-nahoru
 - nahodna-cisla
-
 ]]]
 
 [[[ excs Bonusy
-
 - klasicke-zaokrouhlovani
-
 ]]]
-

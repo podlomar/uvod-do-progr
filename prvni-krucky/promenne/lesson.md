@@ -1,5 +1,3 @@
-# Proměnné
-
 Při komplikovanějších výpočtech se nám často stane, že si potřebujeme nějaký
 mezivýpočet uložit pro pozdější použití. K tomu nám slouží takzvané
 _proměnné_.
@@ -11,7 +9,7 @@ výpočtech.
 Můžeme například v rámci dietního programu spočítat kolik vanilkových věnečků
 denně jsme spořádali za posledních 5 dní.
 
-```python
+```pycon
 >>> celkem = 1 + 2 + 4 + 1 + 6
 >>> prumer = celkem / 5
 ```
@@ -33,7 +31,7 @@ vás. Jedním z takových návyků je správné pojmenovávání proměnných.
 Dejte pozor na to, že do proměnné se jako do šuplíku ukládá pouze hodnota a
 nikoliv celý výpočet. Pokud tedy napíšeme například
 
-```python
+```pycon
 >>> sazba = 350
 >>> vyplata = 8 * sazba
 ```
@@ -41,26 +39,22 @@ nikoliv celý výpočet. Pokud tedy napíšeme například
 bude v proměnné `vyplata` uložena hodnota 2800. Jestliže potom změníme hodnotu v
 proměnné `sazba` na něco jiného, například
 
-```python
+```pycon
 >>> sazba = 420
 ```
 
 v proměnné `vyplata` bude nadále uložena hodnota 2800. Pokud chceme výsledek
 výpočtu aktualizovat, musíme jej spustit znova:
 
-```python
+```pycon
 >>> vyplata = 8 * sazba
 ```
 
 [[[ excs Cvičení
-
-- Hratky-s-promennymi
-- Celociselne-deleni-a-deleni-se-zbytkem
-
+- hratky-s-promennymi
+- celociselne-deleni-a-deleni-se-zbytkem
 ]]]
 
 [[[ excs Bonusy
-
-- Sedacky-v-sale
-
+- sedacky-v-sale
 ]]]
