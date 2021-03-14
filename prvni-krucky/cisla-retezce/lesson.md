@@ -13,7 +13,7 @@ mu příkazy.
 Pokud pracujete pod Windows, Python konzoli spustíte tak, že do termínálu
 napíšete příkaz.
 
-```
+```shell
 $ python
 ```
 
@@ -23,7 +23,7 @@ operačního systému.
 
 Pokud pracujete na Macu nebo Linuxu, správný příkaz je
 
-```
+```shell
 $ python3
 ```
 
@@ -44,9 +44,8 @@ Nejjednodušší datový typ jsou *celá čísla*. Pod tento typ patří hodnoty
 12, 1321500, -5, 0 a podobně. Pokud do Python konzole napíšete hodnotu, Python
 vám ji vypíše zpátky, což znamená, že vám rozumí :-)
 
-```
+```pycon
 >>> 127
-
 127
 ```
 
@@ -56,9 +55,8 @@ S celými čísly bychom si dlouho nevystačili. Dalším datovým typem tedy bu
 *desetinná čísla*, např. 13.4, 6.0, -0.0001, 0.0 apod. Pozor, že programátoři
 vždycky píší desetinná čísla s **tečkou**, nikoliv s čárkou.
 
-```
+```pycon
 >>> 3.141592
-
 3.141592
 ```
 
@@ -75,7 +73,7 @@ Python máme k dispozici běžné aritmetické operátory:
 Díky těmto operátorům můžeme Python použít jako kalkulačku a psát *aritmetické
 výrazy* jako
 
-```
+```pycon
 >>> 12 * 13 + 10
 >>> (13.4 - 1.4) / 4
 ```
@@ -88,26 +86,23 @@ Python ovšem nabízí ještě další užitečné operátory:
 
 Pomocí mocnění můžeme umocňovat čísla, například
 
-```
+```pycon
 >>> 2 ** 8
-
 256
 ```
 
 Pomocí celočíselného dělení můžeme dělit celá čísla
 
-```
+```pycon
 >>> 14 // 4
-
 3
 ```
 
 Pokud by nás zajímal zbytek po celočíselném dělení, můžeme použít operátor pro
 zbytek po dělení
 
-```
+```pycon
 >>> 14 % 4
-
 2
 ```
 
@@ -117,41 +112,30 @@ Pokud chceme v Pythonu zadat nějaký kousek textu, použijeme takzvaný
 *řetězec*. Řetězce se v Pythonu uzavírají do jednoduchých nebo dvojitých
 uvozovek. Například:
 
-```
+```pycon
 >>> 'martin'
-
 >>> '12. března 2018'
-
 >>> "prací prášek"
-
 >>> "Don't panic"
 ```
 
 Řetězce se v něčem chovají podobně jako čísla, můžeme je například sčítat a
 násobit
 
-```
+```pycon
 >>> 'martin' + ' ' + 'podloucký'
-
-martin podloucký
-
+'martin podloucký'
 >>> 'bla ' * 10
-
 'bla bla bla bla bla bla bla bla bla bla '
 ```
 
 [[[ excs Cvičení
-
 - jednoducha-aritmetika
 - hratky-s-retezci
-
 ]]]
 
 [[[ excs Bonusy
-
 - uroky
 - novy-koberec
 - shannonovo-cislo
-
 ]]]
-

@@ -1,5 +1,3 @@
-# Vstup a výstup
-
 Nyní přichází na řadu velký zlom. Zatím jsme s Pythonem komunikovali pouze na
 konzoli a posílali jsme mu k vyhodnocení vždy pouze jeden příkaz. Když ale už
 umíme pracovat s proměnnými a funkcemi, můžeme vytvořit náš první program.
@@ -32,10 +30,9 @@ print(cena)
 Toto je jednoduchý program, který nám spočítá cenu lístku v korunách podle
 kurzy 25 korun za euro. Takovýto program pak spustíme příkazem
 
-```
+```shell
 $ python program.py
 ```
-
 
 Pozor na znak dolaru na začátku tohoto příkazu. Tento znak nepíšeme! Znak
 dolaru pouze naznačuje, že tento příkaz musíme zadat do terminálu operačního
@@ -43,18 +40,13 @@ systému, nikoliv do Python konzole. Pokud tedy váš příkazový řádek stál
 začíná třemi zobáčky (`>>>`), jste ještě pořád uvnitř Python konzole a musíte z ní
 vyskočit pomocí funkce `exit()`.
 
-
 [[[ excs Cvičení
-
-- Jednoduchy-vystup
-- Jednoduchy-vstup
-- Zakazka-pro-divadlo
-
+- jednoduchy-vystup
+- jednoduchy-vstup
+- zakazka-pro-divadlo
 ]]]
 
 [[[ excs Bonusy
-
-- Hazeni-kostkami
-- Generator-cisel
-
+- hazeni-kostkami
+- generator-cisel
 ]]]

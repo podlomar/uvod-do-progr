@@ -4,7 +4,7 @@ ale budeme potřebovat umožnit, aby se některé části programu vykonaly jen 
 určitých *podmínek* , tedy aby se naše programy dokázaly rozhodovat a měnit
 svoje chování na základě zadaného vstupu od uživatele.
 
-![Adult only](img/adult-only.png)
+![Adult only](assets/adult-only.png){.fig .fig-60}
 
 Naše divadlo obsahuje některé lechtivé kusy s obsahem pouze pro dospělé. Na
 takové představení chceme pustit pouze uživatele starší 18ti let. Náš program
@@ -75,17 +75,12 @@ Všimněte si, že rovnost se testuje pomocí dvou rovná se. Je to proto, že j
 rovná se už používáme k něčemu jinému - k přiřazení hodnoty do proměnné.
 
 [[[ excs Cvičení
-
 - jednoduche-podminky
 - cena-vstupenky
-
 ]]]
 
 [[[ excs Bonusy
-
 - registrace
 - ruleta
 - prestupny-rok
-
 ]]]
-

@@ -1,8 +1,8 @@
-# Sekvence
-
 Do této chvíle jsme uměli do nějaké proměnné uložit pouze jednu hodnotu,
 například číslo nebo řetězec. Počítače ale často potřebují pracovat v mnohem
 větším objemem dat, než je několik čísel nebo řetězců.
+
+## Řetězce
 
 Sekvence nám umožňují do jedné proměnné uložit více hodnot. Hodnoty uvnitř
 sekvencí sídlí na takzvaných _indexech_ , které se vždy počítají od nuly. To
@@ -12,7 +12,7 @@ Raději si rovnou ukážeme jedna z nejjednodušší sekvencí, a to je řetěze
 tomu, že řetězec je sekvence, je možné přistupovat k jednotlivým jeho prvkům,
 v tomto případě písmenům.
 
-```python
+```pycon
 >>> jmeno = 'hubert'
 >>> jmeno[0]
 'h'
@@ -20,11 +20,13 @@ v tomto případě písmenům.
 'r'
 ```
 
+## Seznamy
+
 Ty vůbec nejpoužívanější sekvence jsou ovšem seznamy. Do nich lze uložit
 jakékoliv množství hodnot jakéhokoliv typu. Dokonce můžeme mít seznamy
 seznamů.
 
-```python
+```pycon
 >>> znamky = [2, 3, 4, 1, 1]
 >>> teploty = [13.4, 13.5, 12.8, 11.9]
 >>> uzivatele = ['mark', 'carl', 'eve', 'ellen']
@@ -35,26 +37,23 @@ seznamů.
 Přístupy k indexům sekvencí se dají skládat za sebe. Můžeme tak získat
 například čtvrté písmenko druhého jména v seznamu `uzivatele`
 
-```python
+```pycon
 >>> uzivatele[1][3]
 'l'
 ```
 
 nebo první číslo třetího seznamu v proměnné `body`
 
-```python
+```pycon
 >>> points[2][0]
 'l'
 ```
 
 [[[ excs Cvičení
-
-- Retezce-jako-sekvence
-- Seznamy
+- retezce-jako-sekvence
+- seznamy
 ]]]
 
 [[[ excs Bonusy
-
-- Overovani-hesla
-
+- overovani-hesla
 ]]]
