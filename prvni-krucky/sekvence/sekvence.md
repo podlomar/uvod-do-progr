@@ -47,11 +47,14 @@ nebo první číslo třetího seznamu v proměnné `body`
 'l'
 ```
 
-## Cvičení
+[[[ excs Cvičení
 
-- [retezce-jako-sekvence](excs/Retezce-jako-sekvence.md)
-- [seznamy](excs/Seznamy.md)
+- Retezce-jako-sekvence
+- Seznamy
+]]]
 
-### Bonusy
+[[[ excs Bonusy
 
-- [overovani-hesla](excs/Overovani-hesla.md)
+- Overovani-hesla
+
+]]]

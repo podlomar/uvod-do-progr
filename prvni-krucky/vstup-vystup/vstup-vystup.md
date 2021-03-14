@@ -44,13 +44,17 @@ začíná třemi zobáčky (`>>>`), jste ještě pořád uvnitř Python konzole 
 vyskočit pomocí funkce `exit()`.
 
 
-## Cvičení
+[[[ excs Cvičení
 
-- [jednoduchy-vystup](excs/Jednoduchy-vystup.md)
-- [jednoduchy-vstup](excs/Jednoduchy-vstup.md)
-- [zakazka-pro-divadlo](excs/Zakazka-pro-divadlo.md)
+- Jednoduchy-vystup
+- Jednoduchy-vstup
+- Zakazka-pro-divadlo
 
-### Bonusy
+]]]
 
-- [hazeni-kostkami](excs/Hazeni-kostkami.md)
-- [generator-cisel](excs/Generator-cisel.md)
+[[[ excs Bonusy
+
+- Hazeni-kostkami
+- Generator-cisel
+
+]]]

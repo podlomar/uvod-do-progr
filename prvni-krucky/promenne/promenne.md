@@ -52,11 +52,15 @@ výpočtu aktualizovat, musíme jej spustit znova:
 >>> vyplata = 8 * sazba
 ```
 
-## Cvičení
+[[[ excs Cvičení
 
-- [hratky-s-promennymi](excs/Hratky-s-promennymi.md)
-- [celociselne-deleni-a-deleni-se-zbytkem](excs/Celociselne-deleni-a-deleni-se-zbytkem.md)
+- Hratky-s-promennymi
+- Celociselne-deleni-a-deleni-se-zbytkem
 
-### Bonusy
+]]]
 
-- [sedacky-v-sale](excs/Sedacky-v-sale.md)
+[[[ excs Bonusy
+
+- Sedacky-v-sale
+
+]]]
