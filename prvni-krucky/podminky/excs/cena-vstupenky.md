@@ -1,13 +1,13 @@
----  
-title: Cena vstupenky  
+---
+title: Cena vstupenky
 demand: 2
----  
+---
 
 A nyní opět pokračujeme v našem rezervačním systému.
 
 1. Program `vstupenky01.py`, který jste napsali v předchozí fázi, si uložte jako `vstupenky02.py`, abychom ho mohli dále rozšířit o výpočet ceny vstupenky.
-2. Jakmile máte v programu načtený věk uživatele, vytvořte si proměnnou plnaCena, do které uložte hodnotu 12.
-3. Vytvořte podmínku, která do proměnné cena uloží cenu spočítanou podle věku uživatele dle následujících pravidel
+1. Jakmile máte v programu načtený věk uživatele, vytvořte si proměnnou plnaCena, do které uložte hodnotu 12.
+1. Vytvořte podmínku, která do proměnné cena uloží cenu spočítanou podle věku uživatele dle následujících pravidel
 
 * 0 euro pro návštěvníky mladší 6 let,
 * 65% ze základní ceny pro návštěvníky 6 až 26 let (žák, student),
@@ -17,4 +17,3 @@ A nyní opět pokračujeme v našem rezervačním systému.
 Nezapomeňte na zaokrouhlování, ať nám cena vyjde v celých centech.
 
 4. Nakonec spočtenou cenu vypište s nějakou hezkou zprávou na výstup.
-

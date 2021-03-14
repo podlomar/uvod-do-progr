@@ -1,11 +1,10 @@
----  
-title: Složitější seznam  
-demand: 1  
----  
+---
+title: Složitější seznam
+demand: 1
+---
 
-Založte si program cykly02.py a použijte v něm následující seznam měsíců v
-roce, Všimněte si, že je to seznam seznamů.
-  
+Založte si program `cykly02.py` a použijte v něm následující seznam měsíců v roce, Všimněte si, že je to seznam seznamů.
+
 ```python
 mesice = [
   ["leden", 31],
@@ -21,9 +20,7 @@ mesice = [
   ["listopad", 30],
   ["prosinec", 31],
 ]
-
 ```
 
 1. Pomocí cyklu projděte tento seznam a vypište na výstup názvy jednotlivých měsíců.
-2. Pomocí dalšího cyklu vypište na výstup počty dní v jednotlivých měsících. 
-
+1. Pomocí dalšího cyklu vypište na výstup počty dní v jednotlivých měsících.

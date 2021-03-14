@@ -1,8 +1,6 @@
-
 Než se pustíme do samotného programování, je potřeba na váš počítač nainstalovat dva nové programy, které budeme k programování potřebovat. Předtím si však ještě povíme něco o tom, jak se svým počítačem komunikovat
 
 ## Operační systém
-  
 Každý počítač potřebuje takzvaný operační systém, například Windows 10. Operační systém je v podstatě jeden velký program, který spravuje váš počítač, umožňuje vám jej ovládat, spouštět programy, pracovat se soubory na disku apod. Bez operačního systému by váš počítač byl jen černá obrazovka bez života, něco jako autobus bez řidiče.
 
 Hned takto z kraje se nám ovšem věci začínají malinko komplikovat tím, že neexistuje pouze jeden operační systém, který by všichni svorně používali. Máme minimálně tři různé možnosti, Windows, Mac OS a Linux. Běžní lidé na ulici používají Windows, hipstři a hipsterky v kavárnách používají Mac OS a vousatí geekové v kostkovaných košilích používají různé varianty Linuxu.
@@ -48,7 +46,7 @@ Pokud máte počítač s Windows, následujte tyto kroky:
 
   <p>A sledujte, zda se objeví zpráva podobná této:</p>
 
-  <pre>Python 3.6.6 (default, Sep 12 2018, 18:26:19) 
+  <pre>Python 3.6.6 (default, Sep 12 2018, 18:26:19)
 [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]] on linux
 Type "help", "copyright", "credits" or "license" for more information.</pre>
 
