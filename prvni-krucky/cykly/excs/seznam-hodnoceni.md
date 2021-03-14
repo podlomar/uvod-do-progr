@@ -1,17 +1,16 @@
----  
-title: Seznam hodnocení  
-demand: 1  
----  
+---
+title: Seznam hodnocení
+demand: 1
+---
 
 Mějme seznam hodnocení divadelní hry *Plyšáci na útěku* , který vypadá takto:
 
-    
 ```python
 hodnoceni = [7, 9, 6, 7, 9, 8]
 ```
 
 1. Vytvořte program, který projde tento seznam a vypíše každé hodnocení na nový řádek.
-2. Upravte program tak, aby vypisoval výstup v tomto formátu
+1. Upravte program tak, aby vypisoval výstup v tomto formátu
 
 ```python
 7/10
@@ -21,4 +20,3 @@ hodnoceni = [7, 9, 6, 7, 9, 8]
 9/10
 8/10
 ```
-

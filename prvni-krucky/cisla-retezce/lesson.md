@@ -19,7 +19,7 @@ $ python
 
 Pozor, že **znak dolaru není součástí příkazu**. Používáme ho pouze k tomu,
 abychom naznačili, že je třeba tento příkaz napsat do terminálu vašeho
-operačního systému. 
+operačního systému.
 
 Pokud pracujete na Macu nebo Linuxu, správný příkaz je
 

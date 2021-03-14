@@ -1,19 +1,19 @@
----  
-title: Jednoduché podmínky  
+---
+title: Jednoduché podmínky
 demand: 2
----  
+---
 
-1. Založte si program `prihlaseni.py`. V tomto nechte uživatele zadat svoje uživatelské jméno a poté heslo. Pokud se heslo shoduje s heslem *simsalabim* vypište na výstup
+1. Založte si program `prihlaseni.py`. V tomto nechte uživatele zadat svoje uživatelské jméno a poté heslo. Pokud se heslo shoduje s heslem **simsalabim** vypište na výstup
 
-``` 
+```
 Smíš vstoupit
 ```
 
 Program spusťte na konzoli a vyzkoušejte, že dělá co má.
 
-2. Upravte tento program tak, aby vypsal 
+2. Upravte tento program tak, aby vypsal
 
-```    
+```
 Vstup nepovolen
 ```
 
