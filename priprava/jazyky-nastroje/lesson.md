@@ -18,11 +18,11 @@ Pokud máte počítač s Windows, následujte tyto kroky:
 
   <ol>
     <li>Ujistěte se, že máte aktualizovaný systém. To zajistíte nejjednodušeji tak, že svůj počítač restartujete. Pokud jste již dlouho neaktualizovali, při restartu se může spustit aktualizace, která může trvat relativně dlouho, v extrémním případě třeba i hodinu. Nenechte se vyděsit, obrňte se trpělivostí a vyčkejte, dokud Windows opět nenaběhnou.</li>
-    <li>Stáhněte si instalaci jazyka Python z <a href="https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64.exe">tohoto odkazu</a>. Stažený soubor spusťte. Rozeběhne se průvodce instalací. </li>
+    <li>Stáhněte si instalaci jazyka Python z <a href="https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe">tohoto odkazu</a>. Stažený soubor spusťte. Rozeběhne se průvodce instalací. </li>
     <li>
-      <p>Na úvodní obrazovce je <strong>velmi důležité</strong> zaškrtnout volbu <strong>Add Python 3.7 to PATH</strong> (viz obrázek)</p>
+      <p>Na úvodní obrazovce je <strong>velmi důležité</strong> zaškrtnout volbu <strong>Add Python 3.9 to PATH</strong> (viz obrázek)</p>
       <div class="text-center my-4">
-        <img src="/img/intro-to-progr/python-setup.png" alt="Instalace Pythonu" />
+        <img src="img/python-setup.png" alt="Instalace Pythonu" />
       </div>
     </li>
     <li>Klikněte na <strong>Install Now</strong>, odsouhlaste případné otázky ohledně změn na vašem počítači a vyčkejte dokončení instalace. Jakmile instalace skončí, zavřete okno tlačítkem <strong>Close</strong>.</li>
@@ -59,7 +59,7 @@ Type "help", "copyright", "credits" or "license" for more information.</pre>
   <p>Nejprve ověřme, že instalace nástrojů proběhla v pořádku. Ať už jste na jakémkoliv operačním systému, spusťte svoje nově nainstalované Visual Studio Code a z horní lišty vyberte <em>Terminal</em> → <em>New Terminal</em> (viz obrázek).</p>
 
   <div class="text-center my-4">
-    <img src="/img/intro-to-progr/vscode-term.png" alt="VS Code Terminal" />
+    <img src="img/vscode-term.png" alt="VS Code Terminal" />
   </div>
 
   <p>Pokud jste na Windows, napište do okna, které se objeví, toto:</p>
@@ -98,4 +98,3 @@ Type "help", "copyright", "credits" or "license" for more information.</pre>
   <h2>Hotovo</h2>
   <p>Hurá, máte hotovo a jste připravení na kurz.</p>
 
-</%self:lesson>
