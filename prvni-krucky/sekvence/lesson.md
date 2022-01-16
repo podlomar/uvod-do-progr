@@ -45,8 +45,8 @@ například čtvrté písmenko druhého jména v seznamu `uzivatele`
 nebo první číslo třetího seznamu v proměnné `body`
 
 ```pycon
->>> points[2][0]
-'l'
+>>> body[2][0]
+'34'
 ```
 
 [[[ excs Cvičení
