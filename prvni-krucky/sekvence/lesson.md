@@ -46,7 +46,7 @@ nebo první číslo třetího seznamu v proměnné `body`
 
 ```pycon
 >>> body[2][0]
-'34'
+34
 ```
 
 [[[ excs Cvičení
