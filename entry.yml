@@ -1,0 +1,6 @@
+title: Úvod do programování
+lead: Základy programování v jazyce Python pro úplné nováčky.
+image: intro-image.svg
+chapters:
+  - priprava
+  # - prvni-krucky
