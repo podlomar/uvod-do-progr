@@ -5,6 +5,3 @@ lessons:
   - title: Jazyky a nástroje
     link: jazyky-nastroje
     brief: Nainstalujeme jazyk Python a nástroje, které budete pro programování na vlastním počítači potřebovat
-  - title: Co je to programování
-    link: programovani
-    brief: Povíme si co je to programování, jak funguje počítač, a vyzkoušíme si jaké problémy se v programování řeší
