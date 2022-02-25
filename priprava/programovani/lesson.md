@@ -4,7 +4,7 @@ Tento kurz vás provede úplnými základy programování. Do začátku nebudete
 
 Počítače jsou jeden z nejdůležitějších vynálezů lidstva 20tého století. Máme je na stole v podobě notebooků, v kapse v podobě mobilních telefonů, v hodinkách, v televizích, v autech, v letadlech, prostě všude. Prostupují našimi životy, řeší za nás ohromné množství problému a poskytují nám také spoustu zábavy.
 
-![Notebook](assets/computer.jpg)
+::fig[Notebook]{src=assets/computer.jpg}
 
 Počítače ale pořád potřebují nás lidi, abychom jim řekli, co mají dělat. Zatím ještě nejsme v době, kdy by počítače uměly myslet sami za sebe a proto se pořád nejvíce podobují těm krabicím s černou obrazovkou jako na obrázku výše. Tiše sedí a očekávají naše instrukce. Pokud má počítač za nás vyřešit nějaký problém (například najít ranní spojení z hospody na okraji města do vyhřáté postele), musíme mu přesně popsat, jak to má udělat. Pokud chceme na počítači hrát hru, musíme extrémně detailně popsat její pravidla a chování.
 
@@ -14,7 +14,7 @@ Abychom počítači dokázali vysvětlit, co má dělat, potřebujeme k tomu ně
 
 Různých programovacích jazyků existují desítky, možná bychom se dostali až ke stovce. Všechny jsou založeny víceméně na podobných principech, takže pokud se naučíte jeden, nebude už pro vás problém naučit se další. Každý jazyk se hodí na něco jiného. V některém se dobře píší webové stránky, jiný se hodí na vědecké výpočty a umělou inteligenci, v jiných se zase dobře píší hry.
 
-![Programovací jazyky](assets/programming-languages.png)
+::fig[Programovací jazyky]{src=assets/programming-languages.png}
 
 Žádný dobrý programátor neumí pouze jeden jazyk. Jak budete získávat zkušenosti, naučíte se postupně více jazyků. Běžné je rozumět dvěma až třema jazykům na dobré úrovni a mít alespoň nějaké zkušenosti třeba s dalšími pěti.
 
@@ -22,6 +22,6 @@ Různých programovacích jazyků existují desítky, možná bychom se dostali 
 
 Aby se člověk stal programátorem, nepotřebuje v podstatě nic jiného než chuť učit se nové věci a trochu lásky k technice a počítačům. Rozhodně není třeba být zdatný v matematice, mít vystudovanou technickou vysokou školu nebo dokonce být mužem. Počítače jsou ohromně mocné hračky, se kterými je možné prostě si hrát a zkoušet, co všechno pomocí nich dokážeme.
 
-![Dítě programuje](assets/baby.jpg)
+::fig[Dítě programuje]{src=assets/baby.jpg}
 
 Pro řešení některých složitějších problémů v praxi nebo například pro psaní her je znalost matematiky nebo nějaké hlubší technické vzdělání skoro nutností. Ale k takovým věcem můžete dojít postupně a zcela vlastním tempem, pokud vás budou lákat a bavit.
