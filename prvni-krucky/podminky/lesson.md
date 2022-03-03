@@ -4,7 +4,7 @@ ale budeme potřebovat umožnit, aby se některé části programu vykonaly jen 
 určitých *podmínek* , tedy aby se naše programy dokázaly rozhodovat a měnit
 svoje chování na základě zadaného vstupu od uživatele.
 
-![15plus](assets/15plus_500.png){.fig .fig-60}
+::fig[15plus]{src=src=assets/15plus_500.png size=60}
 
 Naše divadlo hraje i divadelní hry, které nejsou vhodné pro děti. Na
 takové představení chceme pustit pouze uživatele starší 15ti let. Náš program
