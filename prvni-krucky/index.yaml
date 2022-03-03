@@ -4,7 +4,7 @@ brief: Vykročíme do světa programování a začneme se učit první důležit
 lessons:
   - title: První zakázky
     link: prvni-zakazky
-    brief: Představíme se několik problémů, které programátoři řeší ve skutečné práci
+    brief: Představíme si několik problémů, které programátoři řeší ve skutečné práci
   - title: Čísla a řetězce
     link: cisla-retezce
     brief: Nyní už skutečně začneme programovat a vyzkoušíme si první příkazy v jazyce Python.
