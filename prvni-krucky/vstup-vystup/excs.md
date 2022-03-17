@@ -1,10 +1,8 @@
-[[[ excs Cvičení
-- jednoduchy-vystup
-- jednoduchy-vstup
-- zakazka-pro-divadlo
-]]]
+## Cvičení
+::exc[excs>jednoduchy-vystup]
+::exc[excs>jednoduchy-vstup]
+::exc[excs>zakazka-pro-divadlo]
 
-[[[ excs Bonusy
-- hazeni-kostkami
-- generator-cisel
-]]]
+## Bonusy
+::exc[excs>hazeni-kostkami]
+::exc[excs>generator-cisel]
