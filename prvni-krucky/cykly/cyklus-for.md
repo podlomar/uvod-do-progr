@@ -68,15 +68,3 @@ for cislo in cisla:
 Ne, že bychom zrovna tento cyklus nutně potřebovali. Python obsahuje funkci
 `sum()`, která umí dělat přesně toto. Tento příklad ale spíše ukázat, že s
 cykly můžeme dělat spoustu zajímavých věci.
-
-[[[ excs Cvičení
-- seznam-hodnoceni
-- prochazeni-seznamu
-- slozitejsi-seznam
-]]]
-
-[[[ excs Bonusy
-- hry
-- prumer
-- nejvetsi-prvek
-]]]
