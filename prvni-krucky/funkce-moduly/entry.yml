@@ -1,0 +1,5 @@
+title: Funkce a moduly
+lead: Ukážeme si, jak používat funkce a importovat moduly, abychom nemuseli všechno v Pythonu psát od píky.
+sections: 
+  - funkce
+  - moduly
