@@ -15,38 +15,3 @@ nechceme vidět výsledek každého z nich, to bychom se v tom množství výsle
 nevyznali. Pokud tedy nějaký výsledek chceme vidět, musíme Pythonu přímo říct,
 aby ho vypsal do terminálu, ve kterém program spouštíme. K tomu slouží funkce
 `print()`. Vybavení touto funkcí už můžeme napsat náš první program.
-
-## První program
-
-Vytvořme si ve Visual Studiu program s názvem `program.py` a do něj vložme
-následující řádky
-
-```python
-kurz = 25
-cena = 12 * 25
-print(cena)
-```
-
-Toto je jednoduchý program, který nám spočítá cenu lístku v korunách podle
-kurzy 25 korun za euro. Takovýto program pak spustíme příkazem
-
-```shell
-$ python program.py
-```
-
-Pozor na znak dolaru na začátku tohoto příkazu. Tento znak nepíšeme! Znak
-dolaru pouze naznačuje, že tento příkaz musíme zadat do terminálu operačního
-systému, nikoliv do Python konzole. Pokud tedy váš příkazový řádek stále
-začíná třemi zobáčky (`>>>`), jste ještě pořád uvnitř Python konzole a musíte z ní
-vyskočit pomocí funkce `exit()`.
-
-[[[ excs Cvičení
-- jednoduchy-vystup
-- jednoduchy-vstup
-- zakazka-pro-divadlo
-]]]
-
-[[[ excs Bonusy
-- hazeni-kostkami
-- generator-cisel
-]]]

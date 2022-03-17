@@ -1,0 +1,5 @@
+title: Vstup a výstup
+lead: Vstup a výstup potřebujeme aby program dokázal komunikovat s uživatelem.
+sections: 
+  - vystup-do-terminalu
+  - prvni-program
