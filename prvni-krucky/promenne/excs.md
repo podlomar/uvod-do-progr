@@ -1,8 +1,6 @@
-[[[ excs Cvičení
-- hratky-s-promennymi
-- celociselne-deleni-a-deleni-se-zbytkem
-]]]
+## Cvičení
+::exc[excs>hratky-s-promennymi]
+::exc[excs>celociselne-deleni-a-deleni-se-zbytkem]
 
-[[[ excs Bonusy
-- sedacky-v-sale
-]]]
+## Bonusy
+::exc[excs>sedacky-v-sale]
