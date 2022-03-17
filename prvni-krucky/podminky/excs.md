@@ -1,10 +1,8 @@
-[[[ excs Cvičení
-- jednoduche-podminky
-- cena-vstupenky
-]]]
+## Cvičení
+::exc[excs>jednoduche-podminky]
+::exc[excs>cena-vstupenky]
 
-[[[ excs Bonusy
-- registrace
-- ruleta
-- prestupny-rok
-]]]
+## Bonusy
+::exc[excs>registrace]
+::exc[excs>ruleta]
+::exc[excs>prestupny-rok]
