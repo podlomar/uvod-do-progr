@@ -1,11 +1,9 @@
-[[[ excs Cvičení
-- seznam-hodnoceni
-- prochazeni-seznamu
-- slozitejsi-seznam
-]]]
+## Cvičení
+::exc[excs>seznam-hodnoceni]
+::exc[excs>prochazeni-seznamu]
+::exc[excs>slozitejsi-seznam]
 
-[[[ excs Bonusy
-- hry
-- prumer
-- nejvetsi-prvek
-]]]
+## Bonusy
+::exc[excs>hry]
+::exc[excs>prumer]
+::exc[excs>nejvetsi-prvek]
