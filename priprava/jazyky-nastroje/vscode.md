@@ -1,6 +1,6 @@
 ## Nastavení VS Code
 
-Aby se nám ve VS Code dobře programovalo, uložíme si některá užitečná nastavení. Spusťte VS Code a z horního menu vyberte <em>View</em> → <em>Command Palette...</em>. Do textového políčka zkopírujte tento text
+Aby se nám ve VS Code dobře programovalo, uložíme si některá užitečná nastavení. Spusťte VS Code a z horního menu vyberte _View_ → _Command Palette..._. Do textového políčka zkopírujte tento text
 
 ```
 Open Settings (JSON)
@@ -18,10 +18,9 @@ a stiskněte enter. Otevře se okno s editorem. Do jeho pravé časti vložte te
   "files.eol": "\n",
   "editor.minimap.enabled": false,
   "editor.fontSize": 16
-}</pre>
+}
 ```
 
-a uložte stiskem Ctrl+S nebo z menu vyberte <em>File</em> → <em>Save</em>.</p>
+a uložte stiskem Ctrl+S nebo z menu vyberte _File_ → _Save_.
 
 **Hotovo.** Hurá, máte hotovo a jste připravení na kurz.
-
