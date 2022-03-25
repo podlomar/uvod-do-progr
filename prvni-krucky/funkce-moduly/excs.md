@@ -1,10 +1,9 @@
-[[[ excs Cvičení
-- delka-nazvu
-- zaokrouhlovani
-- zaokrouhlovani-nahoru
-- nahodna-cisla
-]]]
+## Cvičení
+::exc[excs>delka-nazvu]
+::exc[excs>zaokrouhlovani]
+::exc[excs>zaokrouhlovani-nahoru]
+::exc[excs>nahodna-cisla]
 
-[[[ excs Bonusy
-- klasicke-zaokrouhlovani
-]]]
+
+## Bonusy
+::exc[excs>klasicke-zaokrouhlovani]
