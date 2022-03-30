@@ -7,4 +7,4 @@ Pro jednodušší spouštění programů a automatickou kontrolu syntaxe Pythonu
 
 2. Do zobrazeného vyhledávacího pole zadejte "python"
 
-3. Jako jeden z prvních výsledků se zobrazí rozšíření *Python*, jehož autorem je Microsoft a má v rohu hvězdičku, která označuje ověřené rozšíření. Toto rozšíření nainstalujte kliknutím na tlačítko **Install** (pokud se tlačítko nezobrazuje, rozšíření už pravděpodobně máte nainstalované.).
+3. Jako jeden z prvních výsledků se zobrazí rozšíření *Python*, jehož autorem je Microsoft a má v rohu hvězdičku, která označuje ověřené rozšíření. Toto rozšíření nainstalujte kliknutím na tlačítko **Install** (pokud se tlačítko nezobrazuje, rozšíření už pravděpodobně máte nainstalované).
