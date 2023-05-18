@@ -7,7 +7,7 @@ Pokud jste na Windows, napište do okna příkaz, který zobrazí verzi nainstal
 ```
 python --version
 ```
-a stiskněte :kdb[Enter]. Pokud jste na Macu nebo Linuxu, může být potřeba napsat
+a stiskněte :kbd[Enter]. Pokud jste na Macu nebo Linuxu, může být potřeba napsat
 ```
 python3 --version
 ```
